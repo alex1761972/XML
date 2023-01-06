@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1251"?>
+ <body>
+   <id>figure</id>
+   <title>what?where?when?</title>
+   <severity>importance</severity>
+   <preconditions>done before</preconditions>
+   <str>1_step:first step description, 
+        2_step:second step description</str>
+    <er>expected_result</er>
+    <ar>actual_result</ar>
+    <attachment>video</attachment>
+  </body>     
