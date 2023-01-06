@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<body category="WEB">
+   <theory lang="en">methods</theory>
+   <sniffing>charles</sniffing>
+   <api>postman</api>
+   <sql>postgres</sql>
+   <linux>gitbush</linux>
+   <programming>python</programming>
+</body>
